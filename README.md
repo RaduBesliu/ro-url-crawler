@@ -31,5 +31,4 @@ In the **results** folder there are 4 text files containing links from previous 
 
 ## Upcoming updates
   - Use Flask to display the content in a webpage
-  - Add more regular expressions
   - Optimize the crawler

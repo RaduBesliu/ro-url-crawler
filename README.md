@@ -1,7 +1,7 @@
 # Romanian Link Crawler
 
 ## Description
-A CLI application that is highly customisable based on user preferences.<br>
+A CLI application that is highly customizable based on user preferences.<br>
 The main options of this script are the starting website and the max depth that the user wishes to go.<br>
 The application crawls Romanian websites, using multithreading, to write all the links found in a file. 
 

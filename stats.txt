@@ -1,0 +1,9 @@
+Finished in 715.7823 second(s). (37% faster)
+Found 319082 different links. (11% less)
+Average speed: 445.78 ( lxml )
+
+Finished in 965.525 second(s).
+Found 355879 different links.
+Average speed: 368.59 ( bs4_lxml-parse )
+
+i5 7400 4c, 4t

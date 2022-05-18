@@ -29,6 +29,15 @@ The application crawls Romanian websites, using multithreading, to write all the
 In the **stats.txt** file there is a comparison between the two parsers. ( CPU: i5-7400 ).<br>
 In the **results** folder there are 4 text files containing links from previous crawls.
 
+## Compiled executable
+The python script can be compiled using the pyinstaller library<br>
+:warning: **Windows Defender Antivirus will interpret the executable as a false positive trojan**<br>
+❗**To prevent the false positive detection, you need to compile the pyinstaller bootloader yourself**
+
+```
+pyinstaller --onefile crawler.py
+```
+
 ## Upcoming updates
   - Use Flask to display the content in a webpage
   - Optimize the crawler
